@@ -131,7 +131,7 @@ Machine-Learning-Tutorial-Using-Scikit-Learn-/
 ---
 
 ## 👨‍💻 Author
-**Chikwendu Emmanuel Onyedika (Peter)**  
+**Peter**  
 - YouTube Channel: [Ezee Kits](https://www.youtube.com/@Ezee_Kits)  
 - Topics Covered: Python, Machine Learning, Data Analysis, Scikit-Learn, Real-Life ML Projects  
 
